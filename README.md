@@ -7,11 +7,9 @@ Featured notes:
 * Probability Theory
 
 Notes that are being actively edited:
-* General Topology
 * Functional Analysis
 * Probability Theory
 * Stochastic Process
-* Classification
 * Machine Learning
 
-Last update of this README: October 26th, 2021
+Last update of this README: November 15th, 2021
