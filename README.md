@@ -8,6 +8,6 @@ Featured notes:
 
 Notes that are being actively edited:
 * Functional Analysis
-* General Topology
+* Matrix Theory
 
-Last update of the README: December 13th, 2021
+Last update of the README: January 11th, 2021
