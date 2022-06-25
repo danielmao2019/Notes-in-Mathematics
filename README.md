@@ -7,7 +7,6 @@ Featured notes:
 * [Probability Theory](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/statistics/probability_theory.pdf)
 
 Notes that are being actively edited:
-* [Functional Analysis](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/analysis/functional_analysis.pdf)
 * [Matrix Theory](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/algebra/matrix_theory.pdf)
 
-Last update of the README: January 22th, 2021
+Last update of the README: June 24th, 2022
