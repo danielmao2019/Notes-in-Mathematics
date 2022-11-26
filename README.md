@@ -12,5 +12,6 @@ Notes that are being actively edited:
 * [Statistical Theory](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/statistics/statistical_theory.pdf)
 * [Game Theory](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/game_theory.pdf)
 * [Graph Theory](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/discrete-mathematics/graph_theory.pdf)
+* [Continuous Optimization](https://github.com/danielmao2019/Notes-in-Mathematics/blob/main/optimization/continuous_optimization.pdf)
 
 Last update of the README: Wed Nov 16, 2022
